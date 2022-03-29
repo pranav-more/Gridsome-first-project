@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.backgroundhero{
+    background: #DFD9CF;
+  }
+  .backgroundtext{
+    background-color: #D0362A;
+  }
+  .textcolor{
+    color: #D0362A;
+  }
+  .textcolor2{
+    color: #DFD9CF;
+  }
